@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/day_imageloader" />
+            <option value="$PROJECT_DIR$/liaorongpu_1601r_0417" />
+            <option value="$PROJECT_DIR$/listview_imageloader_duotiaomu" />
+            <option value="$PROJECT_DIR$/mxlistview" />
+            <option value="$PROJECT_DIR$/radiobutton_fragment" />
+            <option value="$PROJECT_DIR$/zuoyelanxi" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
